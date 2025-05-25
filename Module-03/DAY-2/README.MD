@@ -44,7 +44,16 @@ public class Main
 ```
 
 ## OUTPUT:
-![image](Module-03/DAY-2/Screenshot 2025-04-30 152045.png)
+```
+Input         Expected       Got
+
+Hello         Hello Java     Hello Java
+Java 
+
+Hi            Hi Welcome     Hi Welcome
+Welcome
+
+```
 
 
 
