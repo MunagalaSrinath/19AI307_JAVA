@@ -23,21 +23,38 @@ To Write a java program to compare two elements , if element is greater means di
  ```
 /*
 Program to implement a COMPARABLE & COMPARATOR INTERFACE using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Alluguri Srikrishna Teja
+RegisterNumber: 212222040006
 */
 ```
 
 ## Sourcecode.java:
+```
+import java.util.*;
+public class ComparableExample {
 
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        
+        Integer valA = Integer.valueOf(sc.nextInt());
+        Integer valB = Integer.valueOf(sc.nextInt());
 
+        int comparisonA = valA.compareTo(valB);
+        int comparisonB = valB.compareTo(valA);
 
-
-
-
+        System.out.println(comparisonA);
+        System.out.println(comparisonB);
+    }
+}
+```
 
 ## OUTPUT:
+```
+Input     Result
 
+45           -1
+95            1
+```
 
 
 ## RESULT:
