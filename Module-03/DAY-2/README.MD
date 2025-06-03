@@ -20,9 +20,9 @@ To develop a java program use append() method concatenates the given argument wi
 
 Program to implement a String Buffer using Java
 
-Developed by: Alluguri Srikrishna Teja
+Developed by: M Srinath
 
-RegisterNumber: 212222040006
+RegisterNumber: 212222230147
 
 
 ## Sourcecode.java:
