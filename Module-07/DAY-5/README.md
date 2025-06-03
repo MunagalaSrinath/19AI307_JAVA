@@ -25,8 +25,10 @@ To write a Java program to display even numbers up to the given range using a sy
  ```
 /*
 Program to implement a Method Overloading in Java
-Developed by: Alluguri Srikrishna Teja
-RegisterNumber: 212222040006
+Developed by: M Srinath
+
+RegisterNumber: 212222230147
+
 */
 ```
 
