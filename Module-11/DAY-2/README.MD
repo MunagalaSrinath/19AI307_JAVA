@@ -22,8 +22,10 @@ To Create a java program to retrieve the key and value from hashtable for all in
  ```
 /*
 Program to implement a JAVA MAP & HASHMAP AND HASHTABLE using Java
-Developed by: Alluguri Srikrishna Teja
-RegisterNumber: 212222040006
+Developed by: M Srinath
+
+RegisterNumber: 212222230147
+
 */
 ```
 
