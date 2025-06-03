@@ -19,10 +19,10 @@
  ```
 /*
 Program to implement a ARRAY LIST using Java
-Developed by: Alluguri Srikrishna Teja
 Developed by: M Srinath
 
 RegisterNumber: 212222230147
+
 
 */
 ```
