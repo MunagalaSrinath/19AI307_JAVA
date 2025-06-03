@@ -23,8 +23,10 @@ To Write a java program to compare two elements , if element is greater means di
  ```
 /*
 Program to implement a COMPARABLE & COMPARATOR INTERFACE using Java
-Developed by: Alluguri Srikrishna Teja
-RegisterNumber: 212222040006
+Developed by: M Srinath
+
+RegisterNumber: 212222230147
+
 */
 ```
 
