@@ -19,8 +19,10 @@ To write a Java program for getting integer input from the user using BufferedRe
  ```
 /*
 Program to implement a INPUT STREAM READER
-Developed by: Alluguri Srikrishna Teja
-RegisterNumber: 212222040006
+Developed by: M Srinath
+
+RegisterNumber: 212222230147
+
 */
 ```
 
